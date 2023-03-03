@@ -1,18 +1,26 @@
 [
   {
     "id": 1,
-    "name": "Sunset Lodge"
+    "name": "Sunset Lodge",
+    "details": "Ultimate Luxury hotel. You can enjoy the beauty of sunset just laying in your bed.",
+    "price": 450
   },
   {
     "id": 2,
-    "name": "Sunrise Dhaba"
+    "name": "Sunrise Dhaba",
+    "details": "Ultimate Luxury hotel. You can enjoy the beauty of sunrise just laying in your bed.",
+    "price": 550
   },
   {
     "id": 3,
-    "name": "Moonlight Villa"
+    "name": "Moonlight Villa",
+    "details": "Luxury hotel. You can enjoy the beauty of moonlight just laying in your bed.",
+    "price": 300
   },
   {
     "id": 4,
-    "name": "Moon Grace Cottage"
+    "name": "Moon Grace Cottage",
+    "details": "Luxury hotel. You can enjoy the beauty of nature just laying in your bed.",
+    "price": 250
   }
 ]
